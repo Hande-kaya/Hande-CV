@@ -1,7 +1,7 @@
 # Hande Kaya
 ## Junior Python Backend Developer
 
-Turkey | Remote  
+Location: Istanbul, Turkey  
 Email: iamhandekaya@gmail.com  
 LinkedIn: https://www.linkedin.com/in/hande-kaya-40a3242b4/  
 GitHub: https://github.com/Hande-kaya
