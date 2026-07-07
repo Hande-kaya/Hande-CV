@@ -1,5 +1,5 @@
 # Hande Kaya
-## Junior Frontend Developer 
+## Junior Frontend Developer
 
 Location: Istanbul, Turkey  
 Email: iamhandekaya@gmail.com  
@@ -44,7 +44,7 @@ Contributed across multiple SaaS product workstreams, including Kontomatch, a Eu
 - Collaborated with backend/API-driven workflows for Kontomatch, including account deletion flow support and data extraction-related functionality.
 - Created and maintained software documentation for the RFQ Management system, including workflow diagrams, sequence diagrams, role-based process logic, approval/rejection paths, and implementation details.
 - Performed system-level testing and debugging for RFQ procurement workflows, identifying workflow inconsistencies, edge cases, reliability issues, and process bottlenecks across request, approval, supplier, quote review, and finalization stages.
-- Contributed to a Python/Flask and MongoDB-based social lead discovery system by supporting product workflow logic, API-driven data flows, and relevance-based outreach prioritization.
+- Built and supported a Python/Flask and MongoDB-based social lead discovery system, contributing to product workflow logic, API-driven data flows, and relevance-based outreach prioritization.
 - Supported SEO and AI discoverability work through EN/DE keyword research and draft updates for `robots.txt` and `llms.txt`.
 - Followed professional Git/GitHub workflows using feature branches off `dev`, pull requests, conflict resolution, and team-based review standards.
 
@@ -52,7 +52,7 @@ Contributed across multiple SaaS product workstreams, including Kontomatch, a Eu
 
 ---
 
-### Full Stack Developer — Backend-Oriented, Part-time
+### Full Stack Developer — Product & Frontend Features, Part-time
 **XKAVATOR.com — Smart Construction Marketplace**  
 Mar 2025 – Mar 2026 | Istanbul, Turkey | Hybrid
 
@@ -83,7 +83,7 @@ First developer on a smart B2B construction materials marketplace. Built backend
 
 ### Corporate Website — Doğu Yıldızı A.Ş.
 **HTML, CSS, Tailwind CSS, JavaScript**  
-**Link:** https://doguyildizi.com/ 
+**Link:** [Live Website](https://doguyildizi.com/)
 
 - Designed and developed a responsive bilingual corporate website for Doğu Yıldızı A.Ş., with clean layouts and professional company presentation.
 - Implemented mobile-friendly frontend sections using Tailwind CSS, HTML, CSS, and JavaScript.
@@ -93,7 +93,7 @@ First developer on a smart B2B construction materials marketplace. Built backend
 
 ### Corporate Website — ARS TEK YAPI A.Ş.
 **HTML, CSS, Tailwind CSS, JavaScript**   
-**Link:** https://ars-tek-yapi.netlify.app/
+**Link:** [Live Preview](https://ars-tek-yapi.netlify.app/)
 
 - Designed and developed a responsive bilingual corporate website for ARS TEK YAPI A.Ş., focused on professional branding and clear service presentation.
 - Built maintainable frontend sections using Tailwind CSS, HTML, CSS, and JavaScript.
