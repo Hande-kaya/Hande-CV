@@ -44,6 +44,9 @@ Contributed across multiple SaaS product workstreams, including Kontomatch, a Eu
 - Collaborated with backend/API-driven workflows for Kontomatch, including account deletion flow support and data extraction-related functionality.
 - Created and maintained software documentation for the RFQ Management system, including workflow diagrams, sequence diagrams, role-based process logic, approval/rejection paths, and implementation details.
 - Performed system-level testing and debugging for RFQ procurement workflows, identifying workflow inconsistencies, edge cases, reliability issues, and process bottlenecks across request, approval, supplier, quote review, and finalization stages.
+- Validated RFQ user-facing behavior across supplier replies, attachment-driven quote extraction, multi-supplier/multi-product quote tables, alternative-brand decisions, status transitions, and human-review states.
+- Performed product-matching QA for specification-sensitive procurement items and verified how matched/alternative products were represented through workflow and review screens.
+- Expanded RFQ documentation for notification events, resubmissions, supplier replies, negotiation loops, rejection recovery paths, and role-specific process states.
 - Built and supported a Python/Flask and MongoDB-based social lead discovery system, contributing to product workflow logic, API-driven data flows, and relevance-based outreach prioritization.
 - Supported SEO and AI discoverability work through EN/DE keyword research and draft updates for `robots.txt` and `llms.txt`.
 - Followed professional Git/GitHub workflows using feature branches off `dev`, pull requests, conflict resolution, and team-based review standards.
