@@ -54,6 +54,7 @@ Junior Software Engineer with experience across backend development, frontend in
 - Django
 - Django REST Framework
 - Flask
+- FastAPI
 - Spring Boot
 - RESTful APIs
 - JWT Authentication
@@ -103,6 +104,9 @@ Junior Software Engineer with experience across backend development, frontend in
 ### Testing / Quality
 
 - System-level testing
+- End-to-end workflow QA
+- Supplier communication / quote-flow testing
+- Product matching QA
 - Debugging
 - Workflow testing
 - Performance evaluation
@@ -120,6 +124,7 @@ Junior Software Engineer with experience across backend development, frontend in
 - Sequence diagrams
 - Process diagrams
 - Role-based workflow documentation
+- Notification-flow documentation
 - API behavior documentation
 
 ### Tools
@@ -227,6 +232,11 @@ Worked across multiple SaaS product workstreams, including Kontomatch, a Europea
 - Worked under strict pull request standards covering TypeScript type safety, SCSS BEM methodology, CSS variable usage, maintainable structure, and file/function size limits.
 - Created and maintained software documentation for the RFQ Management system, including workflow diagrams, sequence diagrams, role-based process logic, approval/rejection paths, notification behavior, and implementation details.
 - Performed system-level testing and debugging for RFQ procurement workflows, identifying workflow inconsistencies, edge cases, reliability issues, and process bottlenecks across request, approval, supplier, quote review, and finalization stages.
+- Tested supplier communication and quote-processing flows end to end, including email replies, image/PDF/Word/Excel attachments, unreadable files, missing quotes, delivery failures, and human-review escalation scenarios.
+- Validated multi-supplier and multi-product RFQ cases across quoted quantities, currencies, unit/total prices, lead times, payment terms, delivery costs, and supplier status transitions.
+- Tested alternative-product and alternative-brand handling, including admin decision prompts and downstream RFQ/quote overview updates.
+- Performed product-matching QA across office supplies, batteries, dispensers, notebooks, electronics, and other procurement categories, checking specification equivalence, variants, pack sizes, voltage/capacity, and brand-handling rules.
+- Expanded RFQ documentation with notification behavior, resubmission logic, supplier acknowledgements/replies, negotiation loops, rejection recovery paths, and role-specific event flows.
 - Supported SEO and AI discoverability work through English/German keyword research and draft updates for `robots.txt` and `llms.txt`.
 - Followed professional Git/GitHub workflows using feature branches off `dev`, pull requests, conflict resolution, and team-based review standards.
 
@@ -238,6 +248,8 @@ Worked across multiple SaaS product workstreams, including Kontomatch, a Europea
 - Collaborated with backend/API-driven workflows for Kontomatch, including account deletion flow support and data extraction-related functionality.
 - Validated API-driven product behavior across frontend screens, backend responses, user roles, and workflow states.
 - Performed system-level testing and debugging for RFQ procurement workflows, identifying reliability issues, edge cases, and state inconsistencies.
+- Tested supplier quote ingestion and validation across email replies, document/image attachments, currencies, quantities, prices, lead times, payment terms, delivery costs, and failure/human-review states.
+- Performed product-matching QA for specification equivalence and variant handling across multiple procurement categories.
 - Created software documentation for workflow behavior, implementation logic, and role-based process flows.
 
 #### Frontend-Relevant Bullet Bank
@@ -248,12 +260,14 @@ Worked across multiple SaaS product workstreams, including Kontomatch, a Europea
 - Implemented English/German internationalization using `react-i18next`, replacing hardcoded strings with structured translation keys.
 - Worked under strict PR standards for TypeScript type safety, SCSS BEM methodology, CSS variables, maintainable structure, and file/function size limits.
 - Collaborated with backend REST APIs to connect product screens with OCR, GPT-assisted processing, expense management, and financial workflow data.
+- Validated RFQ UI behavior across supplier replies, quote tables, alternative-brand decisions, multi-product cases, status updates, and human-review states.
 
 #### General Software Engineering Bullet Bank
 
 - Contributed across multiple SaaS product workstreams, including expense management, marketing automation, and RFQ procurement workflows.
 - Built product features and automation workflows across frontend, backend/API collaboration, data processing, testing, and documentation.
 - Performed system-level testing and debugging to identify workflow inconsistencies, reliability issues, and edge cases across multi-step product processes.
+- Tested end-to-end procurement scenarios spanning supplier communication, attachment parsing, quote extraction, product matching, quote comparison, decision prompts, and completion states.
 - Created and maintained technical documentation, workflow diagrams, sequence diagrams, and implementation notes to support team alignment and development continuity.
 - Followed professional Git/GitHub workflows using feature branches, pull requests, conflict resolution, and team-based review standards.
 
@@ -264,6 +278,11 @@ Worked across multiple SaaS product workstreams, including Kontomatch, a Europea
 - Performed system-level testing for RFQ workflows across request, approval, supplier, quote review, and finalization stages.
 - Identified workflow inconsistencies, missing rejection paths, notification behavior issues, and reliability concerns in RFQ processes.
 - Documented role-based process logic for employees, key users, admins, suppliers, and procurement-related actors.
+- Tested supplier email and attachment handling across image, PDF, Word, and Excel inputs, including unreadable files, delivery failures, off-topic replies, and human-review triggers.
+- Validated quote extraction and overview behavior for multi-supplier and multi-product RFQs, including currency, quantity, brand, lead time, payment terms, and delivery-cost fields.
+- Tested alternative-brand/product decision flows and downstream RFQ updates after admin approval.
+- Performed product-matching QA across specification-sensitive categories, checking equivalence rules for dimensions, pack sizes, voltage/capacity, model variants, and brands.
+- Expanded notification and sequence-diagram coverage for comments, approvals/rejections, resubmissions, supplier acknowledgements/replies, negotiation loops, quote completion, and finalization events.
 
 #### Marketing Automation / Social Lead Discovery Bullet Bank
 
@@ -281,7 +300,7 @@ Worked across multiple SaaS product workstreams, including Kontomatch, a Europea
 
 #### Tech Stack
 
-Python, Flask, MongoDB, REST APIs, external APIs, React, TypeScript, SCSS, Git, GitHub, `react-i18next`, SEO/AI discoverability, software documentation
+Python, Flask, FastAPI, MongoDB, REST APIs, external APIs, React, TypeScript, SCSS, Git, GitHub, `react-i18next`, SEO/AI discoverability, software documentation
 
 ---
 
