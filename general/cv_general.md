@@ -17,7 +17,7 @@ Junior Software Engineer with hands-on experience building backend systems, REST
 ## Technical Skills
 
 **Languages:** Python, JavaScript, TypeScript, Java, SQL  
-**Backend:** Django, Django REST Framework, Flask, RESTful APIs, Spring Boot  
+**Backend:** Django, Django REST Framework, Flask, FastAPI, RESTful APIs, Spring Boot  
 **Frontend:** React, TypeScript, SCSS, HTML, CSS, JavaScript, AJAX, Responsive UI  
 **Databases:** PostgreSQL, MongoDB, MySQL, SQLite  
 **API & Authentication:** REST API Design, JWT Authentication, OAuth, Role-Based Access Control, API Documentation  
@@ -64,9 +64,12 @@ Contributed across multiple SaaS product workstreams, including Kontomatch, a Eu
 - Collaborated with backend/API-driven workflows for Kontomatch, including account deletion flow support and data extraction-related functionality.
 - Created and maintained software documentation for the RFQ Management system, including workflow diagrams, sequence diagrams, role-based process logic, approval/rejection paths, and implementation details.
 - Performed system-level testing and debugging for RFQ procurement workflows, identifying workflow inconsistencies, edge cases, reliability issues, and process bottlenecks.
+- Tested supplier communication, attachment handling, and quote extraction across email replies, image/PDF/Word/Excel files, multi-supplier and multi-product RFQs, and human-review/failure scenarios.
+- Validated quote and product-matching behavior across quantities, currencies, pricing, lead times, payment terms, delivery costs, alternative brands, and specification-sensitive product variants.
+- Expanded RFQ workflow documentation for notifications, resubmissions, supplier replies, negotiation loops, rejection recovery paths, and role-specific process states.
 - Followed professional Git/GitHub workflows using feature branches off `dev`, pull requests, conflict resolution, and team-based review standards.
 
-**Tech Stack:** Python, Flask, MongoDB, REST APIs, external APIs, React, TypeScript, SCSS, Git, GitHub, `react-i18next`, SEO/AI discoverability, software documentation
+**Tech Stack:** Python, Flask, FastAPI, MongoDB, REST APIs, external APIs, React, TypeScript, SCSS, Git, GitHub, `react-i18next`, SEO/AI discoverability, software documentation
 
 ---
 
