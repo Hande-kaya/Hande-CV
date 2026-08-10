@@ -1,3 +1,11 @@
+## 2026-08-10
+
+### Added
+- Added detailed end-to-end RFQ QA coverage for supplier communication, email/document attachments, quote extraction, multi-supplier and multi-product scenarios, and human-review/failure states.
+- Added product-matching QA coverage for specification equivalence, variants, pack sizes, voltage/capacity, and brand-handling rules.
+- Expanded RFQ documentation coverage for notifications, resubmissions, supplier replies, negotiation loops, rejection recovery paths, and role-specific event flows.
+- Added FastAPI to the backend skill/technology bank based on Gordian backend workflow exposure.
+
 ## 2026-07-07
 
 ### Updated
