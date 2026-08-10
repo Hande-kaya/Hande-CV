@@ -1,23 +1,24 @@
 # Backend CV Changelog
 
+## 2026-08-10
+
+### Updated
+- Standardized Gordian title/start date to **Software Engineering Intern | Mar 2026 – Present**.
+- Strengthened backend positioning around Django/DRF, data models, REST APIs, authentication, imports, AI/OCR extraction, Flask/MongoDB automation, and validation-heavy workflows.
+- Added concrete RFQ data-quality testing for quote fields, currencies, quantities, terms, alternative brands, attachment extraction, malformed/unreadable inputs, and human-review states.
+- Added technical documentation for role-based procurement flows, supplier communication, notifications, rejection/resubmission, quote processing, and finalization.
+- Added FastAPI/API workflow exposure without overstating backend ownership at Gordian.
+- Removed unsupported quantitative performance claims from recruiter-facing content.
+- Trimmed project/skills sections for stronger ATS focus and role relevance and recruiter readability.
+
 ## 2026-07-07
 
 ### Updated
 - Rebuilt backend CV positioning around XKAVATOR as the primary backend-heavy experience.
-- Strengthened XKAVATOR section with clearer backend-focused wording for Django/DRF APIs, database design, authentication, cost calculation engines, OpenAI integration, PDF generation, performance optimization, and technical documentation.
-- Updated Gordian Analytics title to **Software Engineering Intern** to better reflect cross-functional engineering work across product systems.
-- Repositioned Gordian Analytics as work across **Kontomatch, Marketing Automation, and RFQ Workflow Systems** instead of describing it only as a financial SaaS platform.
-- Added backend-relevant Gordian Analytics contributions, including Python/Flask, MongoDB, external APIs, social lead discovery, relevance matching, and data-processing workflows.
-- Clarified RFQ-related contributions as software documentation, workflow diagrams, sequence diagrams, system-level testing, debugging, and reliability evaluation.
-- Updated technical skills to include Flask, MongoDB, TypeScript, social lead discovery, and backend automation.
-- Refined language section to reflect Persian as native, English as professional/fluent, Turkish as professional working proficiency, and German as basic.
-
-### Removed
-- Removed internal backend positioning notes from the public CV content to keep the file recruiter-facing and clean.
-
-### Purpose
-- Improve ATS relevance for junior backend developer, junior Python developer, Django developer, and backend-oriented software engineering roles.
+- Strengthened XKAVATOR section with clearer backend-focused wording for Django/DRF APIs, database design, authentication, cost calculation engines, OpenAI integration, PDF generation, and technical documentation.
+- Updated Gordian Analytics title to **Software Engineering Intern** to reflect cross-functional engineering work across product systems.
+- Added backend-relevant Gordian contributions including Python/Flask, MongoDB, external APIs, social lead discovery, relevance matching, and RFQ workflow quality/documentation.
 
 ## 2026-04-18
-- Initial backend CV created
-- Repository structure prepared
+- Initial backend CV created.
+- Repository structure prepared.
