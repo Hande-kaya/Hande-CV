@@ -447,7 +447,7 @@ Expected Graduation: 2027
 - Persian - Native
 - English - Professional / Fluent
 - Turkish - Professional working proficiency
-- German - Basic
+- German - Intermediate
 
 ---
 
